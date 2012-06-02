@@ -1,0 +1,35 @@
+
+			body {
+				background-color:black;
+				background-image:url('background2.jpg');
+				background-repeat: no-repeat;
+				}
+			p {
+				color:#ffffff;
+				font:15px Helvetica;
+				}
+			h1{
+				color:#ae6262;
+				font:35px Helvetica;
+				}
+			h2{
+				color:#d99898;
+				font:25px Helvetica;	
+				}
+			ul{
+				color:#ffffff;
+				font:15px Helvetica;
+				}	
+			a:link{
+				color: blue;
+				}
+			a:visited{
+				color: black;
+				}
+			a:hover{
+				color: pink;
+				}
+			a:active{
+				color:red;
+				}
+			
